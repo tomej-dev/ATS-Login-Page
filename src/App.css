@@ -1,5 +1,1 @@
 @import "tailwindcss";
-
-body{
-  min-height: calc(100dvh - 90px);
-}
